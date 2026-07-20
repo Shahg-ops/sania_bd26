@@ -10,25 +10,25 @@ window.DATA = {
       "icon": "✨",
       "title": "The Day We Met",
       "chapter": "Chapter 1",
-      "body": "Wo din jab hum mily thy kabhi socha bhi na hoga keh hum ek khoobsoorat waqt ek sath guzarengy."
+      "body": "Wo din jab hum mily thy kabhi socha bhi na hoga keh hum ek khoobsoorat waqt ek sath guzarengy. Wo waqt wo pal meri zindagi ka sabse keemti lamha tha. ✨"
     },
     {
       "icon": "😂",
       "title": "Our First Funny Moment",
       "chapter": "Chapter 2",
-      "body": "yrr phli baar jab mile the vho toh ydd hi hoga. kya haal hum dono ka ."
+      "body": "WELL! idk about the funny moment but i think after uh came into my life uh made my life happier and its funny how one person can change someone life so muchh. 😂"
     },
     {
       "icon": "😅",
       "title": "Our First Fight",
       "chapter": "Chapter 3",
-      "body": "ladai toh bhaut hua lekin yre accha hai ki hum log sath h ."
+      "body": "Pehli nazr mai aesa jaadu krdiaa.... mai aj bhi agar soochun mai tumhari ankhon se bahar ni aa sakta... aese lagta ha jese meri poori duniya bas gyi hai unmai. 😅"
     },
     {
       "icon": "❤️",
       "title": "My Favorite Memory",
       "chapter": "Chapter 4",
-      "body": "favourite memory toh komal mera thumare sath phla mülakat hi h aaj tak."
+      "body": "Meri favorite memory.... sach btaon to mera tumhary sath guzra har lamha meri sabse keemti or favorite memory hai. ❤️"
     },
     {
       "icon": "🎂",
