@@ -18,7 +18,7 @@ const DATA = window.DATA || {};
   /* Hero heading */
   const heroTitle = document.querySelector('.hero-title');
   if (heroTitle && DATA.hero) {
-    heroTitle.innerHTML = (DATA.hero.title || 'Happy Birthday ❤️')
+    heroTitle.innerHTML = (DATA.hero.title || 'Happy Birthday Duniyaaa ❤️')
       .replace('❤️', '<span class="hero-heart-accent">❤️</span>');
   }
   /* Hero subtitle */
