@@ -1,6 +1,6 @@
 window.DATA = {
   "hero": {
-    "title": "Happy Birthday ❤️",
+    "title": "Happy Birthday Duniyaaa ❤️",
     "subtitle": "I wanted to build something instead of buying something.",
     "btnText": "Begin the Adventure →",
     "badge": "🎂 Today is Special"
