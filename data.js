@@ -191,49 +191,49 @@ window.DATA = {
   ],
   "gallery": [
     {
-      "src": null,
+      "src": img7.jpeg,
       "caption": "The beginning ✨",
       "icon": "📷",
       "bg": "#fff0f5"
     },
     {
-      "src": null,
+      "src": img3.jpeg,
       "caption": "That one perfect day 🌸",
       "icon": "🌸",
       "bg": "#f5f0ff"
     },
     {
-      "src": null,
+      "src": img6.jpeg,
       "caption": "Couldn't stop laughing 😂",
       "icon": "😂",
       "bg": "#fff8f0"
     },
     {
-      "src": null,
+      "src": img2.jpeg,
       "caption": "Our favorite place 🗺️",
       "icon": "🗺️",
       "bg": "#f0fff5"
     },
     {
-      "src": null,
+      "src": img4.jpeg,
       "caption": "Spontaneous adventure 🎢",
       "icon": "🎢",
       "bg": "#fff0ff"
     },
     {
-      "src": null,
+      "src": img5.jpeg,
       "caption": "The quiet moments ☕",
       "icon": "☕",
       "bg": "#fffbf0"
     },
     {
-      "src": null,
+      "src": img1.jpeg,
       "caption": "Best decision ever 💛",
       "icon": "💛",
       "bg": "#f5fff0"
     },
     {
-      "src": null,
+      "src": img8.jpeg,
       "caption": "This one's my favorite ❤️",
       "icon": "❤️",
       "bg": "#fff0f5"
