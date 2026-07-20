@@ -91,102 +91,102 @@ window.DATA = {
     {
       "icon": "😊",
       "label": "Your smile",
-      "detail": "The kind that lights up a room before you even say a word."
+      "detail": "Tumhay muskraty dekhna meri zindagi ka sabse keemti nazara hai. 😊❤️"
     },
     {
       "icon": "😂",
       "label": "Your laugh",
-      "detail": "Infectious, unfiltered, and absolutely my favorite sound."
+      "detail": "Tumhari hansi sun kar mai apnay saray dukh dard bhool jata hun. 😂✨"
     },
     {
       "icon": "💛",
       "label": "Your kindness",
-      "detail": "You give it freely and never keep score. Rare."
+      "detail": "Ahh ur kindness, well its rare so its damn precious for mehh. 💛🌸"
     },
     {
       "icon": "🧘",
       "label": "Your patience",
-      "detail": "Especially with me. That alone earns you a medal."
+      "detail": "Sabr bhhtt hai sabr bht ha uh mai tabhi aj tak mujy jhel rhi. 🤍🌿"
     },
     {
       "icon": "✨",
       "label": "Your confidence",
-      "detail": "Even when you don't feel it, it shows. Trust me."
+      "detail": "Jis confidence se har cheez handle karti ho, it's so sweet. ✨💖"
     },
     {
       "icon": "👀",
       "label": "Your beautiful eyes",
-      "detail": "They say everything you're thinking. All of it."
+      "detail": "Tumhari aankhein to bss unmai meri poori duniya ks sakoon ha. 👀💫"
     },
     {
       "icon": "🤝",
       "label": "Your support",
-      "detail": "You show up. Quietly, consistently, without being asked."
+      "detail": "Har achay bury waqt mai mera sath dena, i love it so muchh. 🤝❤️"
     },
     {
       "icon": "🤭",
       "label": "Your cute expressions",
-      "detail": "I could watch your face all day and never get bored."
+      "detail": "Tumhary cute expressions mere chehry pr smile ki wajah hain. 🤭💫"
     },
     {
       "icon": "🧠",
       "label": "Your intelligence",
-      "detail": "Sharp, thoughtful, and always five steps ahead."
+      "detail": "Tum jitni smart ho wo to pta hi hai, hehehhehe. 🧠✨"
     },
     {
       "icon": "💪",
       "label": "Your strength",
-      "detail": "You've handled things that would have broken most people."
+      "detail": "Tum bht strong ho or har cheez ko deal krna janti ho. 💪🤍"
     },
     {
       "icon": "🎶",
       "label": "Your taste",
-      "detail": "In music, in food, in people — you just know."
+      "detail": "Tumhara taste songs mai khany mai kapron heheheh. 🎶🌷"
     },
     {
       "icon": "🌙",
       "label": "Your depth",
-      "detail": "There's more to you than most people will ever get to see."
+      "detail": "Jitni tum pyari ho, tum usse kahin zyada khoobsurat insan ho. 🌙💭"
     },
     {
       "icon": "🐾",
       "label": "Your soft side",
-      "detail": "Hidden from most, but I know it's there. And I love it."
+      "detail": "Tumhara naram dil hi tumhein sabse alag banata hai. 🐾💞"
     },
     {
       "icon": "🌸",
       "label": "Your presence",
-      "detail": "Every room is just better when you're in it."
+      "detail": "Bas tumhara saath ho to har jagah ghar jaisi lagti hai. 🌸🏡"
     },
     {
       "icon": "🎯",
       "label": "Your focus",
-      "detail": "When you want something, you go after it. No half-measures."
+      "detail": "o cheez tum decide kar lo, uske liye hamesha best deti ho. 🎯🔥"
     },
     {
       "icon": "🌈",
       "label": "Your optimism",
-      "detail": "You find the silver lining even when it's raining hard."
+      "detail": "Tum har mushkil mein bhi umeed ki ek nayi wajah dhoond leti ho. 🌈☀️"
     },
     {
       "icon": "🍕",
       "label": "Your food opinions",
-      "detail": "Strongly held. Never wrong. (Mostly.)"
+      "detail": "Khany mai tumhari choicee thee besttessttt haii, huhuhuhu. 🍕😋"
     },
     {
       "icon": "📖",
       "label": "Your curiosity",
-      "detail": "You ask the questions most people are too afraid to ask."
+      "detail": "Tum curiosity ko positively handle krleti ho, thats rare. 📖✨"
     },
     {
       "icon": "🎁",
       "label": "The way you care",
-      "detail": "Little things. Big things. You notice everything that matters."
+      "detail": "Tum bina bataye bhi meri chhoti chhoti baaton ka khayal rakhti ho. 🎁❤️"
     },
     {
       "icon": "🌟",
       "label": "Just you",
-      "detail": "Entirely and completely. Exactly as you are. Always."
+      "detail": "Sabse badi wajah? Bas tum... kyun ke tum sabse alag ho. 💖🌍"
     }
   ],
   "gallery": [
