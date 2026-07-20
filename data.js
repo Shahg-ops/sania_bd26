@@ -10,7 +10,7 @@ window.DATA = {
       "icon": "✨",
       "title": "The Day We Met",
       "chapter": "Chapter 1",
-      "body": "Tumko toh komal ydd hi hoga sara chiz jab humlog phli baar mile the aur phir kakse hua lagga h jaise kal ka baat h ."
+      "body": "Wo din jab hum mily thy kabhi socha bhi na hoga keh hum ek khoobsoorat waqt ek sath guzarengy. Wo waqt qo pal meri zindagi ka sabse keemti lamha tha."
     },
     {
       "icon": "😂",
