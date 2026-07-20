@@ -34,7 +34,7 @@ window.DATA = {
       "icon": "🎂",
       "title": "Today",
       "chapter": "Chapter 5 — Right Now",
-      "body": "Happy birthday baccha 🎉🎂🎁🎈❤️"
+      "body": "Happy birthday bachhaaaa 😘🙈"
     }
   ],
   "quiz": [
