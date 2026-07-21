@@ -20,9 +20,9 @@ window.DATA = {
     },
     {
       "icon": "😅",
-      "title": "Our First Fight",
+      "title": "Our First Romantic Moment",
       "chapter": "Chapter 3",
-      "body": "Pehli nazr mai aesa jaadu krdiaa.... mai aj bhi agar soochun mai tumhari ankhon se bahar ni aa sakta... aese lagta ha jese meri poori duniya bas gyi hai unmai. 😅"
+      "body": "Pehli nazr mai aesa jaadu krdiaa.... The day when we held eachother hands for the first time... wo ehsaas wo lamha wo feeling mujy aj bhi yad hai 🙈 like wo aj bhi sochta hun to blush krny lag jata or wo mere lie sbse best moment that. 😅"
     },
     {
       "icon": "❤️",
