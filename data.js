@@ -34,7 +34,7 @@ window.DATA = {
       "icon": "🎂",
       "title": "Today",
       "chapter": "Chapter 5 — Right Now",
-      "body": "Happy birthday bachhaaaa 😘🙈"
+      "body": "Happy birthday Duniyaaaa 😘🙈"
     }
   ],
   "quiz": [
@@ -240,9 +240,9 @@ window.DATA = {
     }
   ],
   "letter": [
-    "Thank you, mera bachhaa ❤️😗, mere liye itna kuch krny kay liye 🍜💖, aur mere saath baith ke masti mazaak karne ke liye 😂🤍.\n\nTum agar nahi hoti toh mai bahut akela pad jaata sachiiii … 🥺❤️ Lekin tumhare saath kabhi akela mehsoos nahi hota. 🤗💞\n\nAur haan bethy bethy tmky sath masti krna tng krna 🤏😆. Jab tum bahut zyada pareshaan ho jaati ho, toh tmka para high ho jata or thappar bhi laga deti  🤭👊😂.\n\nYeh saari chhoti-chhoti yaadein mere dil ke bahut kareeb hain. ❤️✨\n\nThank you, mera baccha, mere liye itna sab kuch karne ke liye. 🥹💖\n\nThank you, mera baccha. ❤️🤍",
+    "Thank you, meri zindagiii ❤️😗, mere liye itna kuch krny kay liye 🍜💖, aur mere saath baith ke masti mazaak karne ke liye 😂🤍.\n\nTum agar nahi hoti toh mai bahut akela pad jaata sachiiii … 🥺❤️ Lekin tumhare saath kabhi akela mehsoos nahi hota. 🤗💞\n\nAur haan bethy bethy tmky sath masti krna tng krna 🤏😆. Jab tum bahut zyada pareshaan ho jaati ho, toh tmka para high ho jata or thappar bhi laga deti  🤭👊😂.\n\nYeh saari chhoti-chhoti yaadein mere dil ke bahut kareeb hain. ❤️✨\n\nThank you, meri Jaan, mere liye itna sab kuch karne ke liye. 🥹💖\n\nThank you, meri duniyaa. ❤️🤍",
     "Aur haan, mazaak toh ho gaya 😅, On serious note meko tmki bht fikr rehti hai ❤️ or mai  chahta hun tm hmesha apna khayal rakho 😗💜.\n\nHum bas yeh chahte hain ki tum healthy bano, ek healthy lifestyle follow karo 💪🥗, aur mere saath har jagah ghoomne chalo 🌍✨.\n\nIsliye please iss baat ka promise karo 🤝❤️. Tum bahut baar promise kar chuki ho, lekin iss baar please sach mein shuru kar do apna khayal rakhna 😁🤌🏻. Taaki tum ek healthy aur khush life jee sako. Please 🥺❤️",
-    "Hum tumse bahut pyaar karte hain baccha ❤️🥹, aur hamesha karte rahenge. ♾️💖\n\nIsliye bina tension liye apne career par focus karo 📚💼, apne mind 🧠 aur apni body 💪 ka bhi khayal rakho. Taaki hum dono saath milkar ek healthy aur khushhaal life jee sakein 🌸❤️, aur jo bhi sapne humne saath dekhe hain woh sab poore ho jaayein. ✨🏡\n\nThank you, Sania, ek baar phir meri zindagi mein aane ke liye. 🥹❤️\n\nLove you bachhaaa. 😘💖\n\nHappy Birthday Duniyaaaaaaa! 🎉❤️"
+    "Hum tumse bahut pyaar karte hain baccha ❤️🥹, aur hamesha karte rahenge. ♾️💖\n\nIsliye bina tension liye apne career par focus karo 📚💼, apne mind 🧠 aur apni body 💪 ka bhi khayal rakho. Taaki hum dono saath milkar ek healthy aur khushhaal life jee sakein 🌸❤️, aur jo bhi sapne humne saath dekhe hain woh sab poore ho jaayein. ✨🏡\n\nThank you, Sania, ek baar phir meri zindagi mein aane ke liye. 🥹❤️\n\nLove you Duniyaaa. 😘💖\n\nHappy Birthday Duniyaaaaaaa! 🎉❤️"
   ],
   "letterSignature": "Ahsen ❤️",
   "footer": {
